@@ -104,7 +104,7 @@ namespace OnlineShopWebApp.Controllers
         public async Task<ActionResult> EditPassword(string email)
         {
             var user = await userManager.FindByEmailAsync(email);
-            var ordersViewModel = mapper.Map<List<OrderViewModel>>(await ordersRepository.GetUserOrdersAsync(user.Id));
+            var ordersViewModel = mapper.Map<List<OrderViewModel>>(await ordersRepository.GetUserOrdersAsync(user.Email));
             ViewBag.SomeProperty = ordersViewModel;
             var regUser = new RegisteringUser { Email = email };
             return View(regUser);
