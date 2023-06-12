@@ -1,0 +1,38 @@
+﻿@model CartViewModel
+
+@{
+    ViewData["Title"] = "Cart Page";
+}
+
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+    table {width: 100%;}
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Корзина</h1>
+</div>
+    <table>
+        <thead>
+          <tr>
+               <th>Название позиции</th>
+               <th>Количество товара в позиции</th>
+               <th>Стоимость позиции</th>
+          </tr>
+        @foreach (var item in Model.Items)
+            {
+                <tr>
+                    <th>@item.Product.Name</th>
+                    <th>@item.Count</th>
+                    <th>@item.FullCost</th>
+                    <th><a href="/cart/remove/@item.Product.Id" style="background-color:red" class="btn" role="button">-</a>
+                    <a href="/cart/add/@item.Product.Id" style="background-color:green" class="btn" role="button">+</a></th>
+                </tr>
+            }
+        </thead>
+    </table>
+    <h5>Итоговая сумма: @Model.FullPrice</h5><br>
+    <a href="/order/orderregistration/@Model.UserId" style="background-color:orange" class="btn" role="button">Перейти к оформлению</a>
+    <a href="/cart/clear?userId=@Model.UserId" style="background-color:brown" class="btn" role="button">Очистить корзину</a>

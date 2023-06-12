@@ -1,0 +1,29 @@
+﻿@model ProductViewModel
+@{
+    ViewData["Title"] = "Product Page";
+}
+<div class="col-4">
+    <div class="card-body">
+        <a style="color:green" href="/product/index/@Model.Id">
+        </a>    
+        <img src="@Model.Image" alt="Картинка товара" height="290" width="310">
+    </div>  
+</div> 
+<div class="col-4">
+    <h5>@Model.Name</h5><br>
+    <h5>@Model.Cost ₽</h5><br>
+    <h5>@Model.Description</h5><br>
+</div>
+<a href="/cart/add/@Model.Id" style="background-color:rgba(117, 190, 218, 0.5)" class="btn" role="button">&#128722 В корзину</a>
+@if (Model.InWishList == false)
+{
+        <a href="/wishlist/add/@Model.Id" style="background-color:#74992e" class="btn" role="button">♡</a>
+}
+else
+{
+        <a href="/wishlist/index" style="background-color:rgba(117, 190, 218, 0.5)" class="btn" role="button">♥</a>
+}
+<a class="btn" asp-area="" asp-controller="Comment" asp-action="PostComment" asp-route-Id="@Model.Id" style="background-color:yellow" role="button">Отзывы</a>
+<a class="btn" asp-area="" asp-controller="Catalog" asp-action="Index" style="background-color:#74992e" role="button">Продолжить покупки</a>
+
+

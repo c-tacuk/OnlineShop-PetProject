@@ -1,0 +1,15 @@
+﻿@model OrderViewModel
+
+Дата и время создания: @Model.CreateTime<br><br>
+Адрес доставки: @Model.UserInfo.Address<br><br>
+Получатель: @Model.UserInfo.Name<br><br>
+Телефон: @Model.UserInfo.Tel<br><br>
+Email: @Model.UserInfo.Email<br><br>
+<form method="post">
+    <input name="orderId" type="hidden" value="@Model.Id" required>
+    Статус:
+    <select asp-for="@Model.Status"
+        asp-items="@Html.GetEnumSelectList<OrderStatusViewModel>()">
+    </select>
+    <button class="btn btn-success" type="submit" asp-area="Admin" asp-controller="Order" asp-action="OrderDetails">Изменить статус</button>
+</form>

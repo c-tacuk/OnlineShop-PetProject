@@ -1,0 +1,9 @@
+﻿@using OnlineShop.Db.Models;
+@model User
+
+<li class="nav-item text-dark">
+    <a href="/user/userDetails/?id=@Model.Id" class="nav-link text-dark"><img src="@Model.Image" width="45" height="45" align="middle"/></a>
+</li>
+<li class="nav-item text-dark">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout">Выйти</a>
+</li>

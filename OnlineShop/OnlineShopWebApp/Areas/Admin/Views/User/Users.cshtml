@@ -1,0 +1,30 @@
+﻿@using OnlineShop.Db.Models;
+@model List<UserViewModel>
+
+<div class="text-center">
+    <h1 class="display-4">Список пользователей</h1>
+</div>
+@await Html.PartialAsync("AdminMenu")
+
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+    table {width: 100%;}
+</style>
+<table>
+    <thead>
+        <tr>
+            <th>Email (логин)</th>
+            <th>Телефон</th>
+        </tr>
+    @foreach (var item in Model)
+        {
+            <tr>
+                <th>@item.Email</th>
+                <th>@item.PhoneNumber</th>
+                <th><a href="/admin/user/userdetails/?email=@item.Email" style="background-color:red" class="btn" role="button">Подробнее</a>
+            </tr>
+        }
+    </thead>
+</table>

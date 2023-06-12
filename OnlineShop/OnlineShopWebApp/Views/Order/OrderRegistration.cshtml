@@ -1,0 +1,49 @@
+﻿@model UserDeliveryInfoViewModel
+
+<div class="text-center">
+    <h1 class="display-4">Оформление заказа</h1>
+</div>
+<form method="post">
+    <div>
+        <fieldset>
+            <legend>Анкета оформоления заказа</legend>
+
+            <div>
+                <label asp-for="Name">Имя заказчика</label><br>
+                <input type="text" asp-for="Name" placeholder="Пётр"><br>
+                <span asp-validation-for="Name" style="color:red"></span>
+            </div>
+
+            <div>
+                <label asp-for="Tel">Телефон</label><br>
+                <input type="tel" asp-for="Tel" placeholder="89771234567"><br>
+                <span asp-validation-for="Tel" style="color:red"></span>
+            </div>
+
+            <div>
+                <label asp-for="Address">Адрес доставки</label><br>
+                <input type="text" asp-for="Address" placeholder="Город, улица, дом, квартира"><br>
+                <span asp-validation-for="Address" style="color:red"></span>
+            </div>
+
+            <div>
+                <label asp-for="Email">Email</label><br>
+                <input type="email" asp-for="Email"><br>
+                <span asp-validation-for="Email" style="color:red"></span>
+            </div>
+
+            <div>
+                <label asp-for="PromocodeText">Промокод (необязательно)</label><br>
+                <input type="text" asp-for="PromocodeText"><br>
+                <span asp-validation-for="PromocodeText" style="color:red"></span>
+            </div>
+
+            <button type="submit" class="btn" style="background-color:green" asp-area="" asp-controller="Order" asp-action="OrderRegistration">Оформить заказ</button>
+        </fieldset>
+    </div>
+</form>
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

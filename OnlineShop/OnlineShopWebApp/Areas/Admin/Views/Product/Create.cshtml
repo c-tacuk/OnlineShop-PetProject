@@ -1,0 +1,43 @@
+﻿@model ProductViewModel
+
+<form method="post" enctype="multipart/form-data">
+    <div class="modal-body">
+        <div class="text-center">
+            <fieldset>
+                <legend>Создание продукта</legend>
+
+                <div>
+                    <label asp-for="Name">Название продукта</label><br>
+                    <input type="text" asp-for="Name"><br>
+                    <span asp-validation-for="Name" style="color:red"></span>
+                </div>
+
+                <div>
+                    <label asp-for="Description">Описание продукта</label><br>
+                    <input type="text" asp-for="Description"><br>
+                    <span asp-validation-for="Description" style="color:red"></span>
+                </div>
+
+                <div>
+                    <label asp-for="Cost">Стоимость продукта</label><br>
+                    <input type="text" asp-for="Cost"><br>
+                    <span asp-validation-for="Cost" style="color:red"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="UploadedImage">Загрузите изображение</label><br>
+                    <input type="file" asp-for="UploadedImage" class="form-control"><br>
+                </div>
+
+            </fieldset>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <button type="submit" class="btn" style="background:linear-gradient(to bottom, #006600 0%, #33cc33 100%)" asp-area="Admin" asp-controller="Product" asp-action="Create">Создать</button>
+    </div>
+</form>
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

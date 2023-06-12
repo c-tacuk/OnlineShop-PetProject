@@ -1,0 +1,73 @@
+﻿@model UserViewModel
+
+<form method="post" enctype="multipart/form-data">
+    <div>
+        <label>Фото профиля</label><br>
+        <img src="@Model.Image" height="290" width="310">
+    </div>
+    <div class="form-group">
+        <label asp-for="UploadedImage">Загрузите новое изображение</label><br>
+        <input type="file" asp-for="UploadedImage" class="form-control"><br>
+    </div>
+        <button type="submit" class="btn" style="background-color:green" asp-area="Admin" asp-controller="User" asp-action="EditPhoto" asp-route-Name="@Model.Email">Изменить фото</button><br>
+</form>
+
+<form method="post">
+    <button type="submit" class="btn" style="background-color:red" asp-area="Admin" asp-controller="User" asp-action="DeletePhoto" asp-route-Email="@Model.Email">Удалить фото</button>
+</form><br>
+Email (логин): @Model.Email<br><br>
+Телефон: @Model.PhoneNumber<br><br>
+<form method="post">
+    <input name="email" type="hidden" value="@Model.Email" required>
+    Назначить на роль:
+    <select asp-for="@Model.Role"
+        asp-items="@Html.GetEnumSelectList<UserRole>()">
+    </select>
+    <button class="btn btn-success" type="submit" asp-area="Admin" asp-controller="User" asp-action="UserDetails">Изменить роль</button>
+</form>
+
+Заказы пользователя: 
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+    table {width: 100%;}
+</style>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Статус</th>
+            <th>Заказчик</th>
+            <th>Дата и время создания</th>
+        </tr>
+        @foreach (var item in ViewBag.SomeProperty)
+        {
+                <tr>
+                    <th>@item.Id</th>
+                    <th>@EnumHelper.GetDisplayName(item.Status)</th>
+                    <th>@item.UserInfo.Name, @item.UserInfo.Email</th>
+                    <th>@item.CreateTime</th>
+                    <th><a href="/admin/order/orderdetails/@item.Id" style="background-color:red" class="btn" role="button">Подробнее</a>
+                </tr>
+        }
+    </thead>
+</table><br>
+
+<a href="/user/editPassword/?email=@Model.Email">Сменить пароль</a><br>
+<a href="/user/editEmail/?email=@Model.Email">Сменить Email</a><br>
+<a href="#" class="btn" data-toggle="modal" data-target="#Remove">Удалить пользователя</a>
+<div class="modal fade" id="Remove" tabindex="-1" role="dialog" aria-labelledby="Remove" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="Remove accept">Вы уверены?</h4>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Отмена</button>
+                <a href="/admin/user/remove/?email=@Model.Email" stryle="background-color:brown" class="btn" role="button">Удалить</a>
+            </div>
+        </div>
+    </div>
+</div>
+

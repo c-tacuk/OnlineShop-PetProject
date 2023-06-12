@@ -1,0 +1,26 @@
+﻿@model List<WishItemViewModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Избранное</h1>
+</div>
+
+<div class="row">
+@foreach (var product in Model)
+{   
+     <div class="col-4 card shadow">
+        <div class="card-body">
+            <a href="/product/productDetails/@product.Product.Id">
+                <h5>@product.Product.Name</h5>
+            </a>
+            <img src="@product.Image" alt="Картинка товара" height="290" width="310">
+            <h5 style="color:lightgreen">@product.Product.Cost руб</h5>
+            <a href="/cart/add/@product.Product.Id" style="background-color:rgba(117, 190, 218, 0.5)" class="btn" role="button">&#128722 В корзину</a>
+            <a href="/wishlist/remove/@product.Product.Id" style="background-color:brown" class="btn" role="button">Убрать</a>
+        </div>
+    </div>
+}
+</div>

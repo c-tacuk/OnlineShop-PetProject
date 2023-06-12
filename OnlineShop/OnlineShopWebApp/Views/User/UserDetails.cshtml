@@ -1,0 +1,46 @@
+﻿@model UserViewModel
+
+<form method="post" enctype="multipart/form-data">
+    <div>
+        <label>Фото профиля</label><br>
+        <img src="@Model.Image" height="290" width="310">
+    </div>
+    <div class="form-group">
+        <label asp-for="UploadedImage">Загрузите новое изображение</label><br>
+        <input type="file" asp-for="UploadedImage" class="form-control"><br>
+    </div>
+        <button type="submit" class="btn" style="background-color:green" asp-area="" asp-controller="User" asp-action="EditPhoto" asp-route-Name="@Model.Email">Изменить фото</button><br>
+</form>
+<form method="post">
+    <button type="submit" class="btn" style="background-color:red" asp-area="" asp-controller="User" asp-action="DeletePhoto" asp-route-Email="@Model.Email">Удалить фото</button>
+</form><br>
+Email (логин): @Model.Email<br>
+Телефон: @Model.PhoneNumber<br>
+Заказы пользователя: 
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+    table {width: 100%;}
+</style>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Статус</th>
+            <th>Заказчик</th>
+            <th>Дата и время создания</th>
+        </tr>
+        @foreach (var item in ViewBag.SomeProperty)
+        {
+                    <tr>
+                        <th>@item.Id</th>
+                        <th>@EnumHelper.GetDisplayName(item.Status)</th>
+                        <th>@item.UserInfo.Name, @item.UserInfo.Email</th>
+                        <th>@item.CreateTime</th>
+                    </tr>
+        }
+    </thead>
+</table><br>
+<a href="/user/editPassword/?email=@Model.Email">Сменить пароль</a><br>
+<a href="/user/editEmail/?email=@Model.Email">Сменить Email</a><br>

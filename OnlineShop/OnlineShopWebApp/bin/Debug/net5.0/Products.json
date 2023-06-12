@@ -1,0 +1,58 @@
+﻿{
+  "Id": 1,
+  "Name": "All Dogs - сухой корм для взрослых собак",
+  "Cost": 589,
+  "Description": "All Dogs - это полнорационный корм для собак всех пород.",
+  "Image": "https://cdn1.ozone.ru/s3/multimedia-6/6235794426.jpg",
+  "InWishList": false
+} {
+  "Id": 2,
+  "Name": "Chappi - сухой корм для взрослых собак",
+  "Cost": 599,
+  "Description": "Полнорационный сухой корм Chappi. Сытный мясной обед.",
+  "Image": "https://domingo.su/images/main/BIG/000-470-414.jpg",
+  "InWishList": false
+} {
+  "Id": 3,
+  "Name": "Cesar - влажный корм для щенят до двух лет",
+  "Cost": 499,
+  "Description": "Cesar - влажный корм с натуральными ингридиентами для щенят. Без консервантов",
+  "Image": "https://posyltorg33.ru/upload/iblock/32a/32a6aed4c046aac0459c64cd5d19f5ea.jpg",
+  "InWishList": false
+} {
+  "Id": 4,
+  "Name": "Eukanua - сухой корм для котят до одного года",
+  "Cost": 419,
+  "Description": "Сухой корм Eukanuba на 100% сбалансированный рацион, поддерживает здоровье котенка",
+  "Image": "https://zoopark-shop.ru/images/product_images/info_images/z731039.jpg",
+  "InWishList": false
+} {
+  "Id": 5,
+  "Name": "Felix - сухой корм для кошек любого возраста",
+  "Cost": 449,
+  "Description": "Представляем Felix Двойная Вкуснятина – новый сухой корм для кошек, который полностью соответствует потребностям Вашего озорника.",
+  "Image": "https://vetrost.ru/wp-content/uploads/2021/01/e5c84d48-4a8c-11eb-80eb-ac1f6bda0b3d_e5c84d52-4a8c-11eb-80eb-ac1f6bda0b3d.jpeg",
+  "InWishList": false
+} {
+  "Id": 6,
+  "Name": "Pedigree - сухой корм для собак любого возраста",
+  "Cost": 2949,
+  "Description": "Полезная и вкусная еда, приготовленная с учётом всех физиологических потребностей собак разных пород.",
+  "Image": "https://www.mirkorma.ru/upload/iblock/1df/1df2b954d3626b1d7376a9d2b83f3257.jpg",
+  "InWishList": false
+} {
+  "Id": 7,
+  "Name": "Purina One - сухой корм для стерилизованных кошек",
+  "Cost": 2149,
+  "Description": "Корм Purina ONE разработан специально для стерилизованных кошек и кастрированных котов.",
+  "Image": "https://zooex.ru/upload/iblock/dcb/dcbca2b019d94f93d2595a82dc1acc39.jpg",
+  "InWishList": false
+} {
+  "Id": 8,
+  "Name": "Sheba - влажный корм для кошек любого возраста",
+  "Cost": 29,
+  "Description": "Корм для кошек любого возраста Sheba (Шеба) 85г телятина-язык в соусе",
+  "Image": "https://tornado.shop/images/detailed/2/P1012615__2_.jpg",
+  "InWishList": false
+}
+{"Id":9,"Name":"Кошачье Счастье - влажный корм для кошек с индейкой","Description":"влажный корм для кошек с индейкой","Cost":199,"Image":"https://www.zookaluga.ru/upload/iblock/ea0/ea00ed629a4de43cbb4ced4b1438ce2a.jpg","InWishList":false}

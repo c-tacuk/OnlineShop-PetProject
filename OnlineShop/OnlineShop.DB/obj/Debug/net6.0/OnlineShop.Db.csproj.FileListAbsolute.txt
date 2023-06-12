@@ -1,0 +1,14 @@
+C:\Users\DlyaS\Desktop\Всё\C#\PetWebsite\ASP.NET_Core_4.0\OnlineShop\OnlineShop.DB\bin\Debug\net6.0\OnlineShop.Db.deps.json
+C:\Users\DlyaS\Desktop\Всё\C#\PetWebsite\ASP.NET_Core_4.0\OnlineShop\OnlineShop.DB\bin\Debug\net6.0\OnlineShop.Db.runtimeconfig.json
+C:\Users\DlyaS\Desktop\Всё\C#\PetWebsite\ASP.NET_Core_4.0\OnlineShop\OnlineShop.DB\bin\Debug\net6.0\OnlineShop.Db.dll
+C:\Users\DlyaS\Desktop\Всё\C#\PetWebsite\ASP.NET_Core_4.0\OnlineShop\OnlineShop.DB\bin\Debug\net6.0\OnlineShop.Db.pdb
+C:\Users\DlyaS\Desktop\Всё\C#\PetWebsite\ASP.NET_Core_4.0\OnlineShop\OnlineShop.DB\obj\Debug\net6.0\OnlineShop.Db.csproj.AssemblyReference.cache
+C:\Users\DlyaS\Desktop\Всё\C#\PetWebsite\ASP.NET_Core_4.0\OnlineShop\OnlineShop.DB\obj\Debug\net6.0\OnlineShop.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DlyaS\Desktop\Всё\C#\PetWebsite\ASP.NET_Core_4.0\OnlineShop\OnlineShop.DB\obj\Debug\net6.0\OnlineShop.Db.AssemblyInfoInputs.cache
+C:\Users\DlyaS\Desktop\Всё\C#\PetWebsite\ASP.NET_Core_4.0\OnlineShop\OnlineShop.DB\obj\Debug\net6.0\OnlineShop.Db.AssemblyInfo.cs
+C:\Users\DlyaS\Desktop\Всё\C#\PetWebsite\ASP.NET_Core_4.0\OnlineShop\OnlineShop.DB\obj\Debug\net6.0\OnlineShop.Db.csproj.CoreCompileInputs.cache
+C:\Users\DlyaS\Desktop\Всё\C#\PetWebsite\ASP.NET_Core_4.0\OnlineShop\OnlineShop.DB\obj\Debug\net6.0\OnlineShop.Db.dll
+C:\Users\DlyaS\Desktop\Всё\C#\PetWebsite\ASP.NET_Core_4.0\OnlineShop\OnlineShop.DB\obj\Debug\net6.0\refint\OnlineShop.Db.dll
+C:\Users\DlyaS\Desktop\Всё\C#\PetWebsite\ASP.NET_Core_4.0\OnlineShop\OnlineShop.DB\obj\Debug\net6.0\OnlineShop.Db.pdb
+C:\Users\DlyaS\Desktop\Всё\C#\PetWebsite\ASP.NET_Core_4.0\OnlineShop\OnlineShop.DB\obj\Debug\net6.0\OnlineShop.Db.genruntimeconfig.cache
+C:\Users\DlyaS\Desktop\Всё\C#\PetWebsite\ASP.NET_Core_4.0\OnlineShop\OnlineShop.DB\obj\Debug\net6.0\ref\OnlineShop.Db.dll

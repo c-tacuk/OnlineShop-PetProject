@@ -1,0 +1,42 @@
+﻿@using OnlineShop.Db.Models;
+@using OnlineShopWebApp.Helpers
+@model List<OrderViewModel>
+
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+table {width: 100%;}
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Список заказов</h1>
+</div>
+@await Html.PartialAsync("AdminMenu")<br><br><br>
+
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+    table {width: 100%;}
+</style>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Статус</th>
+            <th>Заказчик</th>
+            <th>Дата и время создания</th>
+        </tr>
+    @foreach (var item in Model)
+        {
+            <tr>
+                <th>@item.Id</th>
+                <th>@EnumHelper.GetDisplayName(item.Status)</th>
+                <th>@item.UserInfo.Name, @item.UserInfo.Email</th>
+                <th>@item.CreateTime</th>
+                <th><a href="/admin/order/orderdetails/?orderId=@item.Id.ToString()" style="background-color:red" class="btn" role="button">Подробнее</a>
+            </tr>
+        }
+    </thead>
+</table>

@@ -1,0 +1,269 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\0b86f819-a994-4252-83af-890a44cc3f6c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\0b86f819-a994-4252-83af-890a44cc3f6c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\0cc9fe76-f2a0-4c9f-b1b0-15c5b434aace.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\0cc9fe76-f2a0-4c9f-b1b0-15c5b434aace.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\57e87ce8-862a-4bc7-b302-b5774a61c239.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\57e87ce8-862a-4bc7-b302-b5774a61c239.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\701a141a-8a6f-4450-a703-d4d6176ae50b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\701a141a-8a6f-4450-a703-d4d6176ae50b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\74aad6cb-5b6a-4c03-825c-41f567306823.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\74aad6cb-5b6a-4c03-825c-41f567306823.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\7786e83a-5fdb-4e78-babf-bb5c4387f933.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7786e83a-5fdb-4e78-babf-bb5c4387f933.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\7c5d225c-e5e3-4603-bdec-dbab0ce9c44a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7c5d225c-e5e3-4603-bdec-dbab0ce9c44a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\8acd43eb-4c9d-4c3d-a567-1ee58e0df4f0.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\8acd43eb-4c9d-4c3d-a567-1ee58e0df4f0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\991804f2-de45-4eb4-b804-6998d7b394cf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\991804f2-de45-4eb4-b804-6998d7b394cf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\bd1d9d7f-6ed0-4c8e-a249-b70c90235d7b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bd1d9d7f-6ed0-4c8e-a249-b70c90235d7b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\cf5bba4f-f56d-47fd-8e83-9c53bb4aa881.webp",
+      "PackagePath": "staticwebassets\\images\\products\\cf5bba4f-f56d-47fd-8e83-9c53bb4aa881.webp"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\d53362e0-945a-469a-a072-ef11a2522db7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\d53362e0-945a-469a-a072-ef11a2522db7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\ddb702d6-57a4-4984-bac2-99cd3df3c4cb.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ddb702d6-57a4-4984-bac2-99cd3df3c4cb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\f471f10b-0837-468b-9a39-88777171a357.webp",
+      "PackagePath": "staticwebassets\\images\\products\\f471f10b-0837-468b-9a39-88777171a357.webp"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\0721c7e9-2a9f-4d83-9782-0bad8fae97d1.jpeg",
+      "PackagePath": "staticwebassets\\images\\users\\0721c7e9-2a9f-4d83-9782-0bad8fae97d1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\0c6914ec-9acb-4215-8c47-ab7965aecdd9.jpeg",
+      "PackagePath": "staticwebassets\\images\\users\\0c6914ec-9acb-4215-8c47-ab7965aecdd9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\0cf4e6ed-a1a1-419a-9646-03be10e22527.png",
+      "PackagePath": "staticwebassets\\images\\users\\0cf4e6ed-a1a1-419a-9646-03be10e22527.png"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\1b70e8f3-abb5-4e37-888f-73e93ab12266.jpeg",
+      "PackagePath": "staticwebassets\\images\\users\\1b70e8f3-abb5-4e37-888f-73e93ab12266.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\318c7548-b5d1-49cf-9f53-5c025e5f04e9.webp",
+      "PackagePath": "staticwebassets\\images\\users\\318c7548-b5d1-49cf-9f53-5c025e5f04e9.webp"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\8f3b70d7-7378-448e-9177-81317f0be0e2.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\8f3b70d7-7378-448e-9177-81317f0be0e2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\95d42dea-8122-424c-be2c-4a44eb779b34.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\95d42dea-8122-424c-be2c-4a44eb779b34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\cdbdf107-9fa5-4f12-849d-8fb9c263a651.png",
+      "PackagePath": "staticwebassets\\images\\users\\cdbdf107-9fa5-4f12-849d-8fb9c263a651.png"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\ded235d7-0fe8-4968-b924-b9c6b8662cdb.jpeg",
+      "PackagePath": "staticwebassets\\images\\users\\ded235d7-0fe8-4968-b924-b9c6b8662cdb.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\defaultPhoto.png",
+      "PackagePath": "staticwebassets\\images\\users\\defaultPhoto.png"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\f74c5902-a34e-4009-a6b6-c5356a08ff82.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\f74c5902-a34e-4009-a6b6-c5356a08ff82.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\Логотип.png",
+      "PackagePath": "staticwebassets\\images\\Логотип.png"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.OnlineShopWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.OnlineShopWebApp.props",
+      "PackagePath": "build\\OnlineShopWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineShopWebApp.props",
+      "PackagePath": "buildMultiTargeting\\OnlineShopWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.OnlineShopWebApp.props",
+      "PackagePath": "buildTransitive\\OnlineShopWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

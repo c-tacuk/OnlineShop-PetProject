@@ -1,0 +1,205 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\All Dogs - сухой корм для взрослых собак - Копировать.jpeg",
+      "PackagePath": "staticwebassets\\images\\All Dogs - сухой корм для взрослых собак - Копировать.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\All Dogs - сухой корм для взрослых собак.jpeg",
+      "PackagePath": "staticwebassets\\images\\All Dogs - сухой корм для взрослых собак.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\Cesar - влажный корм для щенят до двух лет.jpeg",
+      "PackagePath": "staticwebassets\\images\\Cesar - влажный корм для щенят до двух лет.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\Chappi - сухой корм для взрослых собак.jpeg",
+      "PackagePath": "staticwebassets\\images\\Chappi - сухой корм для взрослых собак.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\Eukanua - сухой корм для котят до одного года.jpeg",
+      "PackagePath": "staticwebassets\\images\\Eukanua - сухой корм для котят до одного года.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\Felix - сухой корм для кошек любого возраста.jpeg",
+      "PackagePath": "staticwebassets\\images\\Felix - сухой корм для кошек любого возраста.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\Pedigree - сухой корм для собак любого возраста.jpeg",
+      "PackagePath": "staticwebassets\\images\\Pedigree - сухой корм для собак любого возраста.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\Purina One - сухой корм для стерилизованных кошек.jpeg",
+      "PackagePath": "staticwebassets\\images\\Purina One - сухой корм для стерилизованных кошек.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\Sheba - влажный корм для кошек любого возраста.jpeg",
+      "PackagePath": "staticwebassets\\images\\Sheba - влажный корм для кошек любого возраста.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\Логотип.png",
+      "PackagePath": "staticwebassets\\images\\Логотип.png"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetWebsite\\ASP.NET_Core_4.0\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OnlineShopWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OnlineShopWebApp.props",
+      "PackagePath": "build\\OnlineShopWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineShopWebApp.props",
+      "PackagePath": "buildMultiTargeting\\OnlineShopWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OnlineShopWebApp.props",
+      "PackagePath": "buildTransitive\\OnlineShopWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

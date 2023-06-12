@@ -1,0 +1,57 @@
+﻿@model List<ProductViewModel>
+
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+    table {width: 100%;}
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Список товаров</h1>
+</div>
+@await Html.PartialAsync("AdminMenu")
+
+<br><br><a asp-area="Admin" asp-controller="Product" asp-action="Create">Создать новый продукт &#10133;</a>
+
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Название</th>
+            <th>Описание</th>
+            <th>Стоимость</th>
+            <th></th>
+        </tr>
+    @foreach (var item in Model)
+        {
+            string RemoveModalId = "RemoveModal" + item.Id + 1;
+            <tr>
+                <th>@item.Id</th>
+                <th>@item.Name</th>
+                <th>@item.Description</th>
+                <th>@item.Cost</th>
+                <th>
+
+                <a href="/product/productDetails/@item.Id">Подробнее</a>
+                    <a href="/admin/product/edit/@item.Id">Редактировать</a>
+                <a href="#" class="btn" data-toggle="modal" data-target="#@RemoveModalId">Удалить</a>
+<!-- МАДОЛЬНОЕ ОКНО ДЛЯ ПОДТВЕРЖДЕНИЯ УДАЛЕНИЯ ПРОДУКТА -->
+            <div class="modal fade" id="@RemoveModalId" tabindex="-1" role="dialog" aria-labelledby="@RemoveModalId" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title" id="@RemoveModalId accept">Вы уверены?</h4>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Отмена</button>
+                            <a href="/admin/product/removeproduct/@item.Id" stryle="background-color:brown" class="btn" role="button">Удалить</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+<!-- МАДОЛЬНОЕ ОКНО ДЛЯ ПОДТВЕРЖДЕНИЯ УДАЛЕНИЯ ПРОДУКТА -->
+            </tr>
+        }
+    </thead>
+</table>

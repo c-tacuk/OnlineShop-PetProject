@@ -1,0 +1,45 @@
+﻿@model RegisteringUser
+            <form method="post">
+                <div class="modal-body">
+                    <div class="text-center">
+                        <fieldset>
+                            <legend>Регистрация</legend>
+
+                            <input type="hidden" name="returnUrl" value="@Model.ReturnUrl"/>
+                            
+                            <div>
+                                <label asp-for="Email">Email</label><br>
+                                <input type="email" asp-for="Email"><br>
+                                <span asp-validation-for="Email" style="color:red"></span>
+                            </div>
+
+                            <div>
+                                <label asp-for="Phone">Номер телефона</label><br>
+                                <input type="number" asp-for="Phone"><br>
+                                <span asp-validation-for="Phone" style="color:red"></span>
+                            </div>
+
+                            <div>
+                                <label asp-for="Password">Пароль</label><br>
+                                <input type="password" asp-for="Password"><br>
+                                <span asp-validation-for="Password" style="color:red"></span>
+                            </div>
+
+                            <div>
+                                <label asp-for="RepeadPassword">Повторите пароль</label><br>
+                                <input type="password" asp-for="RepeadPassword"><br>
+                                <span asp-validation-for="RepeadPassword" style="color:red"></span>
+                            </div>
+
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login" role="button">У меня уже есть аккаунт</a><br>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index" role="button">На главную</a>
+                            <button class="btn" style="background:linear-gradient(to bottom, #006600 0%, #33cc33 100%)" asp-area="" asp-controller="Account" asp-action="Register">Зарегистрироваться</button><br>
+                        </fieldset>
+                    </div>
+                </div>
+            </form>
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

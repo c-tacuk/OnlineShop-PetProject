@@ -1,0 +1,30 @@
+﻿@model List<RoleViewModel>
+
+<div class="text-center">
+    <h1 class="display-4">Роли</h1>
+</div>
+@await Html.PartialAsync("AdminMenu")<br><br>
+
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+    table {width: 100%;}
+</style>
+
+<th><a asp-area="admin" asp-controller="role" asp-action="addrole" style="background-color:green" class="btn" role="button" style="background-color:green" class="btn" role="button">Создать новую роль</a>
+<table>
+    <thead>
+        <tr>
+            <th>Роли</th>
+            <th></th>
+        </tr>
+    @foreach (var item in Model)
+        {
+            <tr>
+                <th>@item.Name</th>
+                <th><a href="/admin/role/removerole/?name=@item.Name" style="background-color:red" class="btn" role="button">Удалить</a>
+            </tr>
+        }
+    </thead>
+</table>

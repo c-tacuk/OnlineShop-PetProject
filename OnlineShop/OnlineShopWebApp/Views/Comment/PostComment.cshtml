@@ -1,0 +1,54 @@
+﻿@model ProductViewModel
+
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+table {width: 100%;}
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Отзывы товара</h1>
+</div>
+
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+    table {width: 100%;}
+</style>
+@if (Model.CommentViewModels != null)
+{
+    <table>
+        <thead>
+            @foreach (var item in Model.CommentViewModels)
+            {
+                    <tr>
+                        <th>Оценка - @item.Evaluation</th>
+                        <th>@item.Text</th>
+                        <th>@item.UserId</th>
+                    </tr>
+            }
+        </thead>
+    </table>
+}
+<div>
+<form method="post">
+    
+    <input type="radio" name="evaluation" value="1" required />
+    <label for="evaluation">1</label>
+    <input type="radio" name="evaluation" value="2" required />
+    <label for="evaluation">2</label>
+    <input type="radio" name="evaluation" value="3" required />
+    <label for="evaluation">3</label>
+    <input type="radio" name="evaluation" value="4" required />
+    <label for="evaluation">4</label>
+    <input type="radio" name="evaluation" value="5" required />
+    <label for="evaluation">5</label>
+    
+    <input type="text" name="text" required />
+
+    <button class="btn btn-success" type="submit" asp-area="" asp-controller="Comment" asp-action="PostComment" asp-route-productId="@Model.Id">Оставить отзыв</button>
+</form>
+</div>
+    

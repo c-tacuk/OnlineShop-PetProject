@@ -1,0 +1,25 @@
+﻿@model RoleViewModel
+
+<form method="post">
+    <div class="modal-body">
+        <div class="text-center">
+            <fieldset>
+                <legend>Создание новой роли</legend>
+
+                <div>
+                    <label asp-for="Name">Название</label><br>
+                    <input type="text" asp-for="Name"><br>
+                    <span asp-validation-for="Name" style="color:red"></span>
+                </div>
+
+                <a asp-area="admin" asp-controller="role" asp-action="roles" class="nav-link text-dark" >Назад</a>
+                <button class="btn" style="background:linear-gradient(to bottom, #006600 0%, #33cc33 100%)" asp-area="admin" asp-controller="role" asp-action="addRole">Создать</button>
+            </fieldset>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
