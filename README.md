@@ -20,7 +20,7 @@ P.S. да, да, фронтенд не очень. На то я и бекенд�
 ### :hammer_and_wrench: Используемые технологии:
 - ASP.NET
 - Entity Framework
-- MS Sql Server 2019
+- MS SQL Server 2019
 - LINQ
 - HTML, CSS
 - Postman
