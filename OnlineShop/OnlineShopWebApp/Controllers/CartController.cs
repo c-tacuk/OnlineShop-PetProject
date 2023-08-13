@@ -45,7 +45,7 @@ namespace OnlineShopWebApp.Controllers
                 await cartsRepository.AddAsync(product, userId);
                 return RedirectToAction("Index");
             }
-                return View("../Product/NotFound");
+                return View("../Product/ProductNotFound");
         }
         public async Task<ActionResult> Remove(Guid id)
         {
