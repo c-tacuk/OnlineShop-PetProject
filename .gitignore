@@ -362,3 +362,14 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /OnlineShop/.vs/OnlineShop/v17/.suo
+/OnlineShop/OnlineShop.DB/bin/Debug/net7.0/OnlineShop.Db.pdb
+/OnlineShop/OnlineShop.DB/bin/Debug/net7.0/OnlineShop.Db.dll
+/OnlineShop/OnlineShop.DB/obj/Debug/net7.0/OnlineShop.Db.pdb
+/OnlineShop/OnlineShop.DB/obj/Debug/net7.0/OnlineShop.Db.genruntimeconfig.cache
+/OnlineShop/OnlineShop.DB/obj/Debug/net7.0/OnlineShop.Db.dll
+/OnlineShop/OnlineShop.DB/obj/Debug/net7.0/OnlineShop.Db.csproj.FileListAbsolute.txt
+/OnlineShop/OnlineShopWebApp/bin/Debug/net7.0/OnlineShopWebApp.staticwebassets.runtime.json
+/OnlineShop/OnlineShopWebApp/bin/Debug/net7.0/OnlineShopWebApp.pdb
+/OnlineShop/OnlineShopWebApp/bin/Debug/net7.0/OnlineShopWebApp.dll
+/OnlineShop/OnlineShopWebApp/bin/Debug/net7.0/OnlineShop.Db.pdb
+/OnlineShop/OnlineShopWebApp/bin/Debug/net7.0/OnlineShop.Db.dll
